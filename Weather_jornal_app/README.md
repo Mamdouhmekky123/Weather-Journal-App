@@ -1,10 +1,21 @@
-# Weather-Journal App Project
+# Weather Journal project
 
-## Overview
-This project requires you to create an asynchronous web app that uses Web API and user data to dynamically update the UI. 
+This is my second project in Udacity internship, I hope you like it li I do.
 
-## Instructions
-This will require modifying the `server.js` file and the `website/app.js` file. You can see `index.html` for element references, and once you are finished with the project steps, you can use `style.css` to style your application to customized perfection.
+# Language & Frameworks I used
 
-## Extras
-If you are interested in testing your code as you go, you can use `tests.js` as a template for writing and running some basic tests for your code.
+* HTML
+* CSS
+* JS 
+* Node.js
+
+# Functionalities
+
+* Take zip code from the user and his /her feelings
+* Display the date ,the city, status of the weather and the temperature in celisius  
+
+# how to use it
+
+just you have to type the zip code of the city and click on generate button all data will appear .
+
+
